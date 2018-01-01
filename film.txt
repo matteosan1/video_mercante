@@ -1,0 +1,17 @@
+;;
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/bisbetico_domato.mp4;IL BISBETICO DOMATO;1;COSA STA FACENDO CELENTANO IN QUESTA SCENA ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/3uomini.mp4;TRE UOMINI E UNA GAMBA;4;CONTRO QUALE SQUADRA GIOCANO I QUATTRO PROTAGONISTI ?;QUAL'E` IL NOME DELLO SCULTORE CHE REALIZZA LA GAMBA ? % a) Marquez b) Garpez c) Vasquez;DI QUALE MARCA E` L'AUTO USATA DAI PROTAGONISTI ? % a) Daewoo b) Aston Martin c) Hyundai;COME SI CHIAMA IL CANE CHE SI VEDE NEL FILM ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/blowing.mp4;VIA COL VENTO;2;COME SI CHIAMA L'ATTORE PROTAGONISTA DI QUESTA SCENA ?;QUANTI OSCAR HA VINTO QUESTO FILM ? % a) 9 b) 10 c) 11
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/amici_miei.mp4;AMICI MIEI;1;COME SI VENDICA IL NECCHI DELL'AMANTE DI SUA MOGLIE, IL SIGNOR VERDIRAME AUGUSTO ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/fantozzi.mp4;FANTOZZI;2;CHI E` IL GIOCATORE CHE FA PALO ?;QUAL'E` IL NOME DEL TELECRONISTA ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/ragazza_del_palio3.mp4;LA RAGAZZA DEL PALIO;2;IN QUALE FAMOSO ALBUM MUSICALE VIENE RITRATTA LA PROTAGONISTA ?;NELL'ANNO IN CUI USCI` IL FILM CHI ERA IL CAPITANO DELL'ISTRICE ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/quantum.mp4;QUANTUM OF SOLACE;1;CHI E` L'AUTISTA DEL TRAM SU CUI SALTA JAMES BOND ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/gladiatore.mp4;IL GLADIATORE;1;COSA COMANDA MASSIMO DECIMO MERIDIO ? % a) Legioni Feliz dell'esercito del Nord % b) Legioni Felix dell'esercito del Nord % c) Legioni Feliz dell'esercito dell'Ovest
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/gobba.mp4;FRANKENSTEIN JUNIOR;1;COME VENGONO STORPIATI I NOMI DEI DUE PERSONAGGI DI QUESTA SCENA ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/intoccabili.mp4;GLI INTOCCABILI;2;CHI E` IL REGISTA DI QUESTO FILM ?;CON QUALE ACCUSA E` STATO INCASTRATO AL CAPONE ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/padrino.mp4;IL PADRINO;1;IN QUALE ALTRO FAMOSO FILM RITROVIAMO L'ATTRICE CHE INTERPRETA CONNIE, LA FIGLIA DI DON VITO CORLEONE ? % a) Ghostbusters % b) Harry ti presento Sally % c) Rocky
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/pele.mp4;FUGA PER LA VITTORIA;1;CHI E` IL FAMOSO ATTORE PORTIERE DELLA SQUADRA DEGLI ALLEATI ?
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/pulp.mp4;PULP FICTION;1;QUAL'E` IL NOME DI FINZIONE DEL FIDANZATO DI UMA THURMAN (MIA WALLACE) ? % a) Marsellus Wallace %  b) David Foster Wallace % c) Fortuna dos Santos Wallace
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/rambo.mp4;RAMBO;1;QUAL'E` IL NOME DI BATTESIMO DI RAMBO ? % a) John Jack % b) John James % c) John Joen
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/top_gun.mp4;TOP GUN;1;COME SI CHIAMA IL PILOTA RIVALE DI "PETE MAVERICK" ? % a) Iceboy % b) Iceman % c) Icy
+file:///Users/sani/Movies/video_mercante_in_fiera/fatti/wendy.mp4;SHINING;1;COME SI CHIAMA L'HOTEL DOV'E` AMBIENTATO QUESTO FILM ? % a) Shining Hotel % b) Overlook Hotel % c) Colorado Hotel
